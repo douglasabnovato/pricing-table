@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    background: #E5E5E5;
+}
+
+.header {
+    position: absolute;
+    width: 100vw;
+    height: 450px;
+    left: 0px;
+    top: 0px;
+    background: #1D539E;
+}
+
+.header .title {
+    position: absolute;
+    width: 553px;
+    height: 65px;
+    left: 444px;
+    top: 100px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+    color: #FFFFFF;
+}
+
+.header .texts {
+    position: absolute;
+    width: 553px;
+    height: 50px;
+    left: 444px;
+    top: 185px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.pricefree {
+    position: absolute;
+    width: 355px;
+    height: 470px;
+    left: 167px;
+    top: 310px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(142, 150, 185, 0.25);
+    border-radius: 8px;
+}
+
+.pricefree header {
+    position: absolute;
+    width: 51px;
+    height: 25px;
+    left: 197px;
+    top: 340px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #1E2338;
+}
+
+.pricefree .price {
+    position: absolute;
+    width: 101px;
+    height: 49px;
+    left: 196px;
+    top: 385px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    color: #1E2338;
+}
+
+.pricefree .price span {
+    position: absolute;
+    width: 42px;
+    height: 25px;
+    left: 302px;
+    top: 404px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #828799;
+}
+
+.pricefree .intro {
+    position: absolute;
+    width: 291px;
+    height: 38px;
+    left: 198px;
+    top: 444px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #828799;
+}
+
+.pricefree hr {
+    margin: 10px 0;
+}
+
+.pricefree button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 24px;
+    gap: 10px;
+    position: absolute;
+    width: 296px;
+    height: 49px;
+    left: 196px;
+    top: 701px;
+    border: 1px solid #1D539E;
+    border-radius: 10px;
+}
+
+.pricefree ul {
+    position: absolute;
+    width: 294px;
+    height: 58px;
+    left: 198px;
+    top: 523px;
+}
