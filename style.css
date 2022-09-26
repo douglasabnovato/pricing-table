@@ -62,8 +62,8 @@ body {
     position: absolute;
     width: 51px;
     height: 25px;
-    left: 197px;
-    top: 340px;
+    left: 22px;
+    top: 22px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
@@ -76,8 +76,8 @@ body {
     position: absolute;
     width: 101px;
     height: 49px;
-    left: 196px;
-    top: 385px;
+    left: 22px;
+    top: 56px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
@@ -90,8 +90,8 @@ body {
     position: absolute;
     width: 42px;
     height: 25px;
-    left: 302px;
-    top: 404px;
+    left: 112px;
+    top: 16px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -104,8 +104,8 @@ body {
     position: absolute;
     width: 291px;
     height: 38px;
-    left: 198px;
-    top: 444px;
+    left: 22px;
+    top: 116px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -114,8 +114,26 @@ body {
     color: #828799;
 }
 
-.pricefree hr {
-    margin: 10px 0;
+.pricefree divider {
+    position: absolute;
+    width: 295px;
+    height: 1px;
+    left: 197px;
+    top: 502px;
+    background: red;
+    color: red;
+}
+
+.pricefree ul {
+    position: absolute;
+    width: 294px;
+    height: 58px;
+    left: 42px;
+    top: 193px;
+}
+
+.pricefree ul li{
+    margin-top: 10px;
 }
 
 .pricefree button {
@@ -128,16 +146,8 @@ body {
     position: absolute;
     width: 296px;
     height: 49px;
-    left: 196px;
-    top: 701px;
+    left: 22px;
+    bottom: 25px;
     border: 1px solid #1D539E;
     border-radius: 10px;
-}
-
-.pricefree ul {
-    position: absolute;
-    width: 294px;
-    height: 58px;
-    left: 198px;
-    top: 523px;
 }
