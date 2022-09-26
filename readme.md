@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/tela-2.jpg">
+  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/tela-1.jpg">
 </p>  
 
 ### 💻 Sobre o desafio
@@ -64,7 +64,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 - Templates de referências para ser feito
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/Desktop.png" width="400px">
+  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/Desktop.png" >
 </p>  
 
 ````css
@@ -101,13 +101,7 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/tela-2.jpg" width="400px">
-</p>  
-
-- Mobile
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/tela-2.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#rocketnews" src="./.github/tela-1.jpg" width="400px">
 </p>  
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
