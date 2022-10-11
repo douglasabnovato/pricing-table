@@ -51,7 +51,7 @@ Não adianta a aplicação estar linda, mas usando Comic Sans como fonte e, por 
 
 #### 🚀 Requisitos para o desafio 
 
-- [x] Seguir o layout do Figma.
+- [x] Desenvolver como o layout do Figma.
 
 #### 🚀 Requisitos bônus 
 
