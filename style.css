@@ -159,6 +159,18 @@ body {
     bottom: 25px;
     border: 1px solid #1D539E;
     border-radius: 10px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1D539E;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 .pricebasic {
@@ -302,6 +314,19 @@ body {
     border: 1px solid #1D539E;
     border-radius: 10px;
     background: #1D539E;
+
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 
@@ -428,6 +453,18 @@ body {
     bottom: 25px;
     border: 1px solid #1D539E;
     border-radius: 10px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1D539E;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 ul li {
