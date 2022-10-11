@@ -23,7 +23,7 @@ body {
     width: 553px;
     height: 65px;
     left: 444px;
-    top: 100px;
+    top: 30px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
@@ -34,10 +34,10 @@ body {
 
 .header .texts {
     position: absolute;
-    width: 553px;
+    width: 483px;
     height: 50px;
-    left: 444px;
-    top: 185px;
+    left: 434px;
+    top: 105px;
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -45,6 +45,11 @@ body {
     line-height: 25px;
     text-align: center;
     color: #FFFFFF;
+}
+
+.container {
+    position: absolute;
+    top: -95px;
 }
 
 .pricefree {
@@ -326,6 +331,21 @@ body {
     border-radius: 8px 8px 0px 0px;
 }
 
+
+.priceprofissional-conteiner header .priceprofissionaltitle {
+    position: absolute;
+    width: 51px;
+    height: 25px;
+    left: 22px;
+    top: 22px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #1E2338;
+}
+
 .priceprofissional-conteiner header span {
     display: flex;
     flex-direction: row;
@@ -336,7 +356,6 @@ body {
     position: absolute;
     width: 94px;
     height: 32px;
-    background: #1D539E;
     border-radius: 40px;
 }
 
@@ -344,7 +363,7 @@ body {
     position: absolute;
     width: 101px;
     height: 49px;
-    left: 22px;
+    left: 32px;
     top: 56px;
     font-family: 'Open Sans';
     font-style: normal;
@@ -409,4 +428,10 @@ body {
     bottom: 25px;
     border: 1px solid #1D539E;
     border-radius: 10px;
+}
+
+ul li {
+    list-style: none;
+    list-style-image: url('./assets/check.svg');
+    padding-left: 4px;
 }
